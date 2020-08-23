@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\wellsfargofsd19\Documents\Workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2772070424.index
+\CoronaPreventionKit-master\src
+C:\Users\wellsfargofsd19\Documents\Workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3897208134.index
+\CoronakitManagementPortal\src
